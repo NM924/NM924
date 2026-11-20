@@ -24,7 +24,7 @@ Bouldering, golf, guitar, and video games. I also lead and organise activities w
 
 ## 📫 Get in touch
 
-- [LinkedIn](www.linkedin.com/in/niall-mcconnell-0315b2293)
+
 - Email: nmcconnell321@gmail.com
 
 <!--
