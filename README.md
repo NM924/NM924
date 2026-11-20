@@ -14,9 +14,9 @@ I enjoy building things, from back-end logic to games in Unity, and I'm especial
 
 | Project | What it is | Built with |
 | --- | --- | --- |
-| run 'n gun | A 3d movement based multiplayer first person shooter | Unity, C# |
+| Run 'n Gun | A 3d movement based multiplayer first person shooter | Unity, C# |
 | Track water Ethiopia | A group project that tracks water data across ethiopia | Java |
-| Make a Guesstimate| An endless estimation game where you guess answers to impossible questions, with a built-in calculator, notes, and a timed pass-and-play mode for friends | c#, Claude |
+| Make a Guesstimate| An endless estimation game where you guess answers to impossible questions, with a built-in calculator, notes, and a timed pass-and-play mode for friends | C#, Claude |
 
 ## 🌱 Outside of code
 
