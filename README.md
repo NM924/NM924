@@ -7,16 +7,16 @@ I enjoy building things, from back-end logic to games in Unity, and I'm especial
  🛠️ Tech I use
 
 - **Languages:** C#, Java, C++ (learning), HTML
-- **Tools:** Unity, Git, VS Code, Visual Studio, Eclipse
+- **Tools:** Unity, Git, VS Code, Visual Studio, Eclipse, Claude
 - **Currently learning:** Data structures and algorithms in C++
 
 ## 🚀 Featured projects
 
 | Project | What it is | Built with |
 | --- | --- | --- |
-| [Project name](https://github.com/YOUR-USERNAME/REPO) | One line on what it does | Unity, C# |
-| [Project name](https://github.com/YOUR-USERNAME/REPO) | One line on what it does | Java |
-| [Project name](https://github.com/YOUR-USERNAME/REPO) | One line on what it does | C++ |
+| run 'n gun | A 3d movement based multiplayer first person shooter | Unity, C# |
+| Track water Ethiopia | A group project that tracks water data across ethiopia | Java |
+| Make a Guesstimate| An endless estimation game where you guess answers to impossible questions, with a built-in calculator, notes, and a timed pass-and-play mode for friends | c#, Claude |
 
 ## 🌱 Outside of code
 
