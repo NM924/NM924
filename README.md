@@ -24,8 +24,8 @@ Bouldering, golf, guitar, and video games. I also lead and organise activities w
 
 ## 📫 Get in touch
 
-- [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)
-- Email: your.email@example.com
+- [LinkedIn](www.linkedin.com/in/niall-mcconnell-0315b2293)
+- Email: nmcconnell321@gmail.com
 
 <!--
 **NM924/NM924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
